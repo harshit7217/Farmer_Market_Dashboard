@@ -37,8 +37,11 @@ This Power BI dashboard provides a comprehensive analysis of **[Sales and Quanti
 4. Explore visuals and interact with filters
 
 ## 📸 Screenshots
+-Sales and Quantity Analysis
 ![alt-text](./images/SalesAndQuantityAnalysis.png "Sales and Quantity Analysis")
+-Quantity Analysis
 ![alt-text](./images/QuantityAnalysis.png "Quantity Analysis")
+-Sales Analysis
 ![alt-text](./images/SalesAnalysis.png "Sales Analysis")
 ## 📢 Author
 **Harshit Chaudhary** – Full-stack developer blending backend logic with cinematic frontend animation. Passionate about recruiter-facing dashboards and automation.
