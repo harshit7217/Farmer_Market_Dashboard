@@ -37,6 +37,9 @@ This Power BI dashboard provides a comprehensive analysis of **[Sales and Quanti
 4. Explore visuals and interact with filters
 
 ## 📸 Screenshots
+!(./images/Sales And Quantity Analysis.png "Hover text")
+!(./images/Quantity Analysis.png "Hover text")
+!(./images/Sales Analysis.png "Hover text")
 
 
 ## 📢 Author
